@@ -13,7 +13,7 @@ export default function Header() {
         <h1 class="heading-1">The ultimate personal freedom</h1>
         <button class="btn header__btn">View our properties</button>
 
-        <div class="header__seenon-text">Seen on</div>
+        <div class="header__seenon-text">As seen on</div>
         <div class="header__seenon-logos">
           <img src={logoBbc} alt="Seen on logo 1" />
           <img src={logoForbes} alt="Seen on logo 2" />
